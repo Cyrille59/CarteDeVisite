@@ -4,9 +4,15 @@ body{
     font-size: 22px;
 }
 
+div{
+    margin: auto;
+
+
+}
+
 img{
     margin-top: 3%;
-    margin-left: 3%;
+    margin-left: 10%;
     width: 15%;
 }
 
@@ -15,21 +21,24 @@ h1,h2{
     font-family: "Times New Roman";
     font-size: 60px;
     line-height: 100px;
+
 }
 
 h1{
     position: absolute;
     display: inline;
     font-size: 90px;
-    margin-left: 22%;
+
+    margin-left: 20%;
+
 }
 
 h2{
     position: absolute;
     display: inline;
     font-size: 45px;
-    margin-top: 15%;
-    margin-left: 7%;
+    margin-top: 12%;
+    margin-left: 5%;
 }
 
 p{
@@ -68,16 +77,17 @@ p{
     position: absolute;
     display: inline;
     margin-top: 20%;
+
 }
 
 #bouton1{
-    margin-left: 10%;
+    margin-left: 6%;
 }
 
 #bouton2{
-    margin-left: 42%;
+    margin-left: 38%;
 }
 
 #bouton3{
-    margin-left: 75%;
+    margin-left: 70%;
 }
