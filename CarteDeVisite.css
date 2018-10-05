@@ -1,0 +1,70 @@
+img{
+    margin-top: 3%;
+    margin-left: 3%;
+    width: 15%;
+}
+
+h1{
+    position: absolute;
+    display: inline;
+    font-size: 600%;
+    margin-left: 22%;
+}
+
+h2{
+    position: absolute;
+    display: inline;
+    font-size: 300%;
+    margin-top: 15%;
+    margin-left: 7%;
+}
+
+p{
+    text-align: center;
+    font-size: 22px;
+    margin-right: 5%;
+    margin-top: 5%;
+    margin-left: 3%;
+}
+
+.passion{
+    font-size: 40px;
+}
+
+#list1, #list2, #list3{
+    position: absolute;
+    display: inline;
+    margin-top: 5%;
+    font-size: 18px;
+}
+
+#list1{
+    margin-left: 10%;
+}
+
+#list2{
+    margin-left: 42%;
+}
+
+#list3{
+    margin-left: 75%;
+}
+
+#bouton1,#bouton2,#bouton3{
+    width: 60%;
+    position: absolute;
+    display: inline;
+    margin-top: 20%;
+}
+
+#bouton1{
+    margin-left: 10%;
+}
+
+#bouton2{
+    margin-left: 42%;
+}
+
+#bouton3{
+    margin-left: 75%;
+}
